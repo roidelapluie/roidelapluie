@@ -1,9 +1,9 @@
 
 
-<a href="https://www.oreilly.com/library/view/prometheus-up/9781098131135/"><img align="right" alt="Prometheus: Up & Running, 2nd Edition" src="https://roidelapluie.be/images/book.jpeg" /></a>
+<a href="https://www.oreilly.com/library/view/prometheus-up/9781098131135/"><img align="right" alt="Prometheus: Up & Running, 2nd Edition" src="https://roidelapluie.be/images/book.png" /></a>
 Julien Pivotto is a prominent figure in the world of open-source monitoring and alerting. As a maintainer of Prometheus, he has made significant contributions to the development and advancement of this powerful tool. Additionally, he is the co-founder of O11y, a company that specializes in providing premium support for various open-source observability tools such as Prometheus, Thanos, and Grafana.
 
-Currently, Julien is putting his expertise to work on the second edition of the book “Prometheus Up and Running”, published by O’Reilly. With his extensive knowledge and experience in the field, he is sure to provide readers with invaluable insights and practical advice on how to make the most of Prometheus and take their monitoring and alerting capabilities to the next level.
+Julien is leveraging his in-depth expertise in the latest edition of the book “Prometheus Up and Running”, published by O’Reilly. With his comprehensive knowledge and hands-on experience in the field, he delivers invaluable insights and practical advice, empowering readers to maximize Prometheus and elevate their monitoring and alerting capabilities to the next level.
 
 
 
